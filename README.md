@@ -148,7 +148,7 @@ MIT License
 ---
 
 ## 🤝 贡献
-[感谢：axibayuit-a11y佬](https://github.com/axibayuit-a11y)  优化：支持了2fa验证码输入，避免需要手机端绑定验证，验证方式
+[感谢：axibayuit-a11y佬](https://github.com/axibayuit-a11y)  优化：支持了2fa验证
 
 欢迎提交 Issue 和 Pull Request！
 
