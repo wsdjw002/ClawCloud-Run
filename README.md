@@ -1,5 +1,5 @@
 # ⭐ Star 星星走起 动动发财手点点 ⭐
-
+# 失效了，爪云添加CF人机验证了
 ## ClawCloud 官网(GitHub注册送5美元地址)：[run.claw.cloud](https://console.run.claw.cloud/signin?link=M9P7GXP3M3W5)
 
 ---
